@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "queue",
+  "description": "queue & stack",
   "author": "Weinan.tang",
+  "url": "https://github.com/twn39/queue-stack.git",
   "scripts": {
     "test": "ava"
   },
