@@ -1,5 +1,13 @@
 ### Queue & Stack
 
+#### Install
+
+    yarn add queue-stack
+
+or
+
+    npm i queue-stack --save
+
 #### Useage
 
     import { Queue, Stack } from 'queue-stack'
