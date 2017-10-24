@@ -1,0 +1,14 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "queue",
+  "author": "Weinan.tang",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
